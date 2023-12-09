@@ -1,4 +1,5 @@
 ### > echo "Hi! My name Alex"
+## CyberSec engineer / Pentest
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbergh&label=Profile%20views&color=0e75b6&style=flat" alt="alexbergh" /> </p>
 
@@ -7,4 +8,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="http://t.me/rikk_berg" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="alexbergh" /></a>
+<a href="http://t.me/rikkberg" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="alexbergh" /></a>
