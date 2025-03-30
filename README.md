@@ -1,5 +1,5 @@
 ## >echo "Hi! My name Alex"
-### >echo "CyberSec engineer / Pentest"
+### >echo "CyberSec specialist / Arhitect"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexbergh&label=Profile%20views&color=0e75b6&style=flat" alt="alexbergh" /> </p>
 <h3 align="left">Github Stats </h3>
