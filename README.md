@@ -24,7 +24,7 @@ CyberSec Specialist / Architect
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=7200&v=2"
@@ -36,7 +36,7 @@ CyberSec Specialist / Architect
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&hide_border=true&cache_seconds=7200&v=2"
-      alt="alexbergh's GitHub stats"
+      alt="GitHub stats"
       loading="lazy"
       decoding="async"
     />
