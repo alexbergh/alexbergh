@@ -8,17 +8,17 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <!-- Primary (официальный инстанс) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=7200&v=2" alt="alexbergh's GitHub stats" />
-</p>
-
-<!-- Fallback (раскомментируй, если опять начнутся 4xx/5xx) -->
-<!--
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexbergh&theme=dark&hide_border=true" alt="alexbergh's Streak Stats" />
-</p>
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true" alt="alexbergh's GitHub stats" />
+</picture>
 
 ---
 
