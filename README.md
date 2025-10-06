@@ -9,11 +9,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- Primary (official instance) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="alexbergh's GitHub stats" />
+  <!-- Primary (официальный инстанс) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=7200&v=2" alt="alexbergh's GitHub stats" />
 </p>
 
-<!-- Fallback (uncomment if нужно) -->
+<!-- Fallback (раскомментируй, если опять начнутся 4xx/5xx) -->
 <!--
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alexbergh&theme=dark&hide_border=true" alt="alexbergh's Streak Stats" />
@@ -22,7 +22,7 @@
 
 ---
 
-### Connect with Me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://t.me/ahberg_work" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
