@@ -9,15 +9,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" 
-    alt="alexbergh's GitHub stats" 
-  />
+  <!-- Primary (official instance) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alexbergh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="alexbergh's GitHub stats" />
 </p>
+
+<!-- Fallback (uncomment if нужно) -->
+<!--
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alexbergh&theme=dark&hide_border=true" alt="alexbergh's Streak Stats" />
+</p>
+-->
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://t.me/ahberg_work" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -29,5 +34,3 @@
     <img src="https://img.shields.io/badge/Session-3DDC84?style=for-the-badge&logo=session&logoColor=white" alt="Session QR" />
   </a>
 </p>
-
----
