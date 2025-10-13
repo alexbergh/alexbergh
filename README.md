@@ -101,8 +101,8 @@ I love automation, visibility, and building tools that make defense measurable.
 ### Commit Streak
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=alexbergh&theme=github-dark-blue&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=alexbergh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak for alexbergh" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=alexbergh&theme=dark)" alt="Stats" />
   </a>
 </p>
 
