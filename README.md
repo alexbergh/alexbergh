@@ -98,11 +98,16 @@ I love automation, visibility, and building tools that make defense measurable.
 <!-- ========================================================= -->
 <!-- STREAK -->
 <!-- ========================================================= -->
-### Commit Streak
+### 🔥 Commit Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=alexbergh&theme=dark)" alt="Stats" />
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://streak-stats.demolab.com?user=alexbergh&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&ring=58a6ff&fire=58a6ff"
+      alt="GitHub Streak for alexbergh"
+      loading="lazy"
+      decoding="async"
+    />
   </a>
 </p>
 
